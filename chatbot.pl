@@ -13,7 +13,6 @@ projetoIntegrador :-
 
   repeat, nl,
   read(Input),
- % data_base_search(Input, Output),
  search(Input, Output),
   write(Output), nl,
   end_session(Input).
