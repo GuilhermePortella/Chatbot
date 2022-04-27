@@ -11,3 +11,7 @@ instruções:
 >4 - 'O que e uma rede de computadores?'.<br/>
 >5 - veja a resposta.<br/>
 >6 - para sair digite: sair. hehe<br/>
+
+
+----------
+**Qualquer duvida abra uma issue que responderei**
