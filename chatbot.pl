@@ -3,12 +3,6 @@
 % Disciplina: Projeto Integrador de Competencias em Ciencia da Computacao
 % Nome: Guilherme Portella
 
-
-% working_directory(CVD, 'C:/Users/Guilherme/Desktop/chatbot').
-% [chatbot].
-%  projetoIntegrador.
-% 'rede de computadores'.
-
 % referência ao banco de dados
 :- include('basededados1.pl').
 :- include('basededados2.pl').
