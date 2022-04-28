@@ -1,11 +1,6 @@
-% Universidade Cruzeiro do Sul
-% Ciencia da Computacao
-% Disciplina: Projeto Integrador de Competencias em Ciencia da Computacao
-% Nome: Guilherme Portella
-
-% referência ao banco de dados
 :- include('basededados1.pl').
 :- include('basededados2.pl').
+
 
 projetoIntegrador :-
   write('---------------BEM VINDO AO FUTURO---------------'), nl,
