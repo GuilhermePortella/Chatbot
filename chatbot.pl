@@ -1,4 +1,3 @@
-% referência ao banco de dados
 :- include('basededados1.pl').
 :- include('basededados2.pl').
 
