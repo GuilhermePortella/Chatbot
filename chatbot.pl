@@ -3,7 +3,7 @@
 
 
 projetoIntegrador :-
-  write('---------------BEM VINDO AO FUTURO---------------'), nl,
+  write('---------------BEM VINDO---------------'), nl,
   write('Digite uma pergunta LEMBRE-SE LETRAS SEM ACENTUACAO E ENTRE '' E COM . :..........'), nl,
 
   repeat, nl,
